@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0cafc1;
+        opacity: 0.09;
+      }
+
+      .cls-2 {
+        fill: #0e2459;
+      }
+    </style>
+  </defs>
+  <g id="Group_873" data-name="Group 873" transform="translate(-855.515 -120)">
+    <circle id="Ellipse_36" data-name="Ellipse 36" class="cls-1" cx="27" cy="27" r="27" transform="translate(855.515 120)"/>
+    <path id="sent-mail" class="cls-2" d="M20.387,12.534a.306.306,0,0,0-.331-.048L.177,21.723a.306.306,0,0,0-.006.553L5.8,25.037a.306.306,0,0,0,.318-.03l5.47-4.088L7.291,25.336a.306.306,0,0,0-.086.237l.428,5.568a.306.306,0,0,0,.537.177l2.986-3.46,3.691,1.764a.306.306,0,0,0,.424-.185l5.206-16.58A.306.306,0,0,0,20.387,12.534Z" transform="translate(872.4 126.542)"/>
+  </g>
+</svg>
